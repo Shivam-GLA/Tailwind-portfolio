@@ -28,19 +28,19 @@ const Portfolio = () => {
             id:1,
             address:textAnalyzer,
             name:"Text Analyzer",
-            repo:"https://github.com/Shivam-GLA/Text-Analyzer"
+            repo:"https://shivam-gla.github.io/Text-Analyzer/"
         },
         {
             id:2,
             address:shoeSavvy,
             name:"ShoeSavvy",
-            repo:"https://github.com/Shivam-GLA/ShoeSavvy-React"
+            repo:"https://shoe-savvy.vercel.app/"
         },
         {
             id:3,
             address:newsAPI,
             name:"News API",
-            repo:"https://github.com/Shivam-GLA/News-API"
+            repo:"https://news-api-phi-opal.vercel.app/"
         },
         {
             id:4,
