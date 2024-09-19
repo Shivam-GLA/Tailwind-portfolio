@@ -46,7 +46,7 @@ const Portfolio = () => {
             id:4,
             address:microsoft,
             name:"Microsoft - clone",
-            repo:"https://github.com/Shivam-GLA/Microsoft-clone"
+            repo:"https://microsoft-clone-rosy-seven.vercel.app/"
         },
         {
             id:5,
