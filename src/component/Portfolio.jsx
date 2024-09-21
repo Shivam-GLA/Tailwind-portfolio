@@ -64,7 +64,7 @@ const Portfolio = () => {
           id:7,
           address:windows11,
           name:"windows 11 - dummy",
-          repo:"https://github.com/Shivam-GLA/Windows-11-dummy"
+          repo:"https://windows-11-dummy.vercel.app/"
       },
         {
           id:8,
