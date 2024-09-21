@@ -58,7 +58,7 @@ const Portfolio = () => {
             id:6,
             address:spotify,
             name:"Spotify - clone",
-            repo:"https://github.com/Shivam-GLA/Spotify-Clone"
+            repo:"https://spotify-clone-two-zeta.vercel.app/"
         },
         {
           id:7,
