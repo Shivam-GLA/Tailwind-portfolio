@@ -70,7 +70,7 @@ const Portfolio = () => {
           id:8,
           address:ticTac,
           name:"Tic Tac - Game",
-          repo:"https://github.com/Shivam-GLA/Tic-Tac-Toe-Game"
+          repo:"https://tic-tac-toe-game-seven-ruby.vercel.app/"
       },
         {
           id:9,
