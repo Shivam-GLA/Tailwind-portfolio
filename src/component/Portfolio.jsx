@@ -76,7 +76,7 @@ const Portfolio = () => {
           id:9,
           address:portfolio,
           name:"portfolio - website",
-          repo:"https://github.com/Shivam-GLA/My-Portfolio-Site"
+          repo:"https://html-portfolio-site.vercel.app/"
       },
         {
           id:10,
