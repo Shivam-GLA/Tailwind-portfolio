@@ -82,7 +82,7 @@ const Portfolio = () => {
           id:10,
           address:food,
           name:"Food delivery - website",
-          repo:"https://github.com/Shivam-GLA/online-Food-delivery-service-Site"
+          repo:"https://online-food-delivery-service-site.vercel.app/"
       },
         {
           id:11,
