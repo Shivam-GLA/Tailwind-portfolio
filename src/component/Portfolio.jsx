@@ -88,7 +88,7 @@ const Portfolio = () => {
           id:11,
           address:iEducate,
           name:"iEducate - website",
-          repo:"https://github.com/Shivam-GLA/Online-Education-Site"
+          repo:"https://online-education-site.vercel.app/"
       },
         {
           id:12,
