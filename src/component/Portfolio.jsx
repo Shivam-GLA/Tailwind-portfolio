@@ -94,7 +94,7 @@ const Portfolio = () => {
           id:12,
           address:ml,
           name:"Confusion Matrix - ML",
-          repo:"https://github.com/Shivam-GLA/Confusion-Matrix-ML"
+          repo:"https://presentation-ml.vercel.app/"
       },
         {
           id:13,
