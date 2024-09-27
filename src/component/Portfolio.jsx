@@ -100,7 +100,7 @@ const Portfolio = () => {
           id:13,
           address:clock,
           name:"Analog Clock",
-          repo:"https://github.com/Shivam-GLA/Analog-Clock"
+          repo:"https://analog-clock-five-azure.vercel.app/"
       },
         {
           id:14,
