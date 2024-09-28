@@ -106,7 +106,7 @@ const Portfolio = () => {
           id:14,
           address:cheatsheet,
           name:"cheatsheet",
-          repo:"https://github.com/Shivam-GLA/Cheatsheet-Copy-Code"
+          repo:"https://cheatsheet-copy-code.vercel.app/"
       },
         {
           id:15,
