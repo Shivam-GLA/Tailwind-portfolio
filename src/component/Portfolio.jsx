@@ -118,7 +118,7 @@ const Portfolio = () => {
           id:16,
           address:calculator,
           name:"Calculator",
-          repo:"https://github.com/Shivam-GLA/Calculator"
+          repo:"https://calculator-azure-eta-98.vercel.app/"
       },
         {
           id:17,
