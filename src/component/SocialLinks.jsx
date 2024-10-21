@@ -24,7 +24,7 @@ const SocialLinks = () => {
         {
             id:4,
             child:(<>Resume <BsFillPersonLinesFill size={'2rem'}/></>),
-            href:"https://drive.google.com/file/d/1F1UUiyFKzjrOk-qw23ZlFU6UPZ4dr2Pi/view?usp=drive_link",
+            href:"https://drive.google.com/file/d/1R68TCwA1-BXznwHbOjr8p_fkBsxH7GaR/view?usp=drive_link",
             style:"rounded-br-md"
         }
     ]
